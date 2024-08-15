@@ -11,3 +11,5 @@ While there was some element of luck involved in surviving, it seems some groups
 
 ### Question to be answered
 “what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+
+## Data Dictionary
