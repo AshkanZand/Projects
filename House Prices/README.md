@@ -16,6 +16,7 @@ The data has been split into two groups:
 * training set (train.csv)
 * test set (test.csv)
 * full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here (data_description.txt)
+
 Refrence: [House Prices - Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=data_description.txt) 
   
 ### Data Dictionary
