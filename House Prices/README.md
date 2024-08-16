@@ -1,9 +1,9 @@
 # Project: House Prices - Advanced Regression Techniques
-## Outline:
+## Outline
 
-## Introduction:
+## Introduction
 
-### Project background:
+### Project background
 Ask a home buyer to describe their dream house. They might focus on more obvious features like the number of bedrooms or aesthetic aspects like a white-picket fence. They probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. However, many other factors—such as the height of the basement ceiling or the proximity to a railroad—can significantly affect the final sale price. The project highlights the complexity of price determination in real estate.
 
 
