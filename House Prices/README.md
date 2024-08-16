@@ -1,16 +1,14 @@
-# Project: Titanic
+# Project: House Prices - Advanced Regression Techniques
 ## Outline:
 
 ## Introduction:
 
 ### Project background:
-The sinking of the Titanic is one of the most infamous shipwrecks in history.
-On April 15, 1912, during her maiden voyage, the widely considered “unsinkable” RMS Titanic sank after colliding with an iceberg.
-Unfortunately, there weren’t enough lifeboats for everyone onboard, resulting in the death of 1502 out of 2224 passengers and crew.
-While there was some element of luck involved in surviving, it seems some groups of people were more likely to survive than others.
+Ask a home buyer to describe their dream house. They might focus on more obvious features like the number of bedrooms or aesthetic aspects like a white-picket fence. They probably won't begin with the height of the basement ceiling or the proximity to an east-west railroad. However, many other factors—such as the height of the basement ceiling or the proximity to a railroad—can significantly affect the final sale price. The project highlights the complexity of price determination in real estate.
+
 
 ### Question to be answered
-“what sorts of people were more likely to survive?” using passenger data (ie name, age, gender, socio-economic class, etc).
+"predict the sales price for each of residential homes in Ames, Iowa, using the provided dataset with 79 explanatory variables?"
 
 ## Dataset Description
 ### Overview
