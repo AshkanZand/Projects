@@ -15,6 +15,7 @@ Ask a home buyer to describe their dream house. They might focus on more obvious
 The data has been split into two groups:
 * training set (train.csv)
 * test set (test.csv)
+* full description of each column, originally prepared by Dean De Cock but lightly edited to match the column names used here (data_description.txt) 
   
 ### Data Dictionary
 
